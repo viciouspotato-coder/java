@@ -1,0 +1,2 @@
+This workshop gave me an opportunity to work with threads for the first time in Java. The syntax are quite different compared to C++, I noticed that sometimes you can choose override the run function, other times you can use the executorService to do so. Judging by the results of task 1, multithreading can greatly enhance a programs performance, though it can sometimes be buggy when it is not implemented properly.
+The program can be ran through eclipse by pressing F11 in the right directory.

@@ -1,0 +1,3 @@
+This workshop gave me the opportunity to work with java classes and get familiar with the concept.
+The UML diagram in the workshop instructions gave me a clear understanding of what functions that need to be implemented and how they work. Thus, overall, the workshop is easy. The most difficult part of the workshop is trying to figure out the logic of the getIncomeTax() function, initially I planned to make a loop function that will loop exactly 6 times but then I realized that 2001 tax only has 5 intervals. Which pushed me to think more critically about the problem.
+The program can be ran through eclipse by pressing F11 in the right directory. Alternatively, use command prompt to open the directory and locate the jar file and use the command “java -jar workshop2.jar”.

@@ -1,0 +1,2 @@
+This workshop has given me the opportunity to work with file interactions in Java, like how to read files and write into them. I learned that it is possible to extract information from a text file with bufferedreader and scanner. I also got the chance to get more familiar with arrayList and how Java compares variables.
+The program can be ran through eclipse by pressing F11 in the right directory. Alternatively, use command prompt to open the directory and locate the jar file and use the command “java -jar xx.jar”.
