@@ -1,2 +1,0 @@
-This workshop is relatively easy to complete, it introduced new topics like ArrayList and HashMap, although I believe I have used array list or something similar in a previous workshop. Both of them are used to stored information, they fetch their information through a key, ArrayList does so through the use of an index, while HashMap does so through a paired up key. The concepts are easy to understand, at least at the moment to complete the workshop.
-The program can be ran through eclipse by pressing F11 in the right directory.

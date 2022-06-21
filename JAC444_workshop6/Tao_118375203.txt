@@ -1,2 +1,0 @@
-This is a somewhat complex workshop. Task 1 requires me to understand both javaFX and file reading, which are what I have done in the previous two workshops. It gave me the opportunity to refine my javaFX skills. After experimenting a bit more with javaFX, I realized that I have a lot of redundant additions in my workshop 5, for example making multiple rows for the labels and text fields. However there are still things I do not know, for example how to center the two buttons in the UI.
-The program can be ran through eclipse by pressing F11 in the right directory.
